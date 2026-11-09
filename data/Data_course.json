@@ -1,0 +1,505 @@
+{
+  "RawData": [
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 100.8506,
+      "rowId": 397,
+      "dt": "Январь 2025",
+      "periodicity": "month",
+      "date": "2025-02-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 104.735,
+      "rowId": 397,
+      "dt": "Январь 2025",
+      "periodicity": "month",
+      "date": "2025-02-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 13.6054,
+      "rowId": 397,
+      "dt": "Январь 2025",
+      "periodicity": "month",
+      "date": "2025-02-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 12.6332,
+      "rowId": 398,
+      "dt": "Февраль 2025",
+      "periodicity": "month",
+      "date": "2025-03-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 96.9013,
+      "rowId": 398,
+      "dt": "Февраль 2025",
+      "periodicity": "month",
+      "date": "2025-03-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 92.8246,
+      "rowId": 398,
+      "dt": "Февраль 2025",
+      "periodicity": "month",
+      "date": "2025-03-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 86.0663,
+      "rowId": 399,
+      "dt": "Март 2025",
+      "periodicity": "month",
+      "date": "2025-04-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 92.6758,
+      "rowId": 399,
+      "dt": "Март 2025",
+      "periodicity": "month",
+      "date": "2025-04-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 11.804,
+      "rowId": 399,
+      "dt": "Март 2025",
+      "periodicity": "month",
+      "date": "2025-04-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 11.3821,
+      "rowId": 400,
+      "dt": "Апрель 2025",
+      "periodicity": "month",
+      "date": "2025-05-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 93.7297,
+      "rowId": 400,
+      "dt": "Апрель 2025",
+      "periodicity": "month",
+      "date": "2025-05-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 83.3027,
+      "rowId": 400,
+      "dt": "Апрель 2025",
+      "periodicity": "month",
+      "date": "2025-05-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 80.456,
+      "rowId": 401,
+      "dt": "Май 2025",
+      "periodicity": "month",
+      "date": "2025-06-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 91.1403,
+      "rowId": 401,
+      "dt": "Май 2025",
+      "periodicity": "month",
+      "date": "2025-06-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 11.1271,
+      "rowId": 401,
+      "dt": "Май 2025",
+      "periodicity": "month",
+      "date": "2025-06-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 10.9288,
+      "rowId": 402,
+      "dt": "Июнь 2025",
+      "periodicity": "month",
+      "date": "2025-07-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 90.4476,
+      "rowId": 402,
+      "dt": "Июнь 2025",
+      "periodicity": "month",
+      "date": "2025-07-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 78.7176,
+      "rowId": 402,
+      "dt": "Июнь 2025",
+      "periodicity": "month",
+      "date": "2025-07-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 78.7337,
+      "rowId": 403,
+      "dt": "Июль 2025",
+      "periodicity": "month",
+      "date": "2025-08-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 92.2459,
+      "rowId": 403,
+      "dt": "Июль 2025",
+      "periodicity": "month",
+      "date": "2025-08-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 10.9627,
+      "rowId": 403,
+      "dt": "Июль 2025",
+      "periodicity": "month",
+      "date": "2025-08-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 11.1323,
+      "rowId": 404,
+      "dt": "Август 2025",
+      "periodicity": "month",
+      "date": "2025-09-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 93.1518,
+      "rowId": 404,
+      "dt": "Август 2025",
+      "periodicity": "month",
+      "date": "2025-09-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 80.1574,
+      "rowId": 404,
+      "dt": "Август 2025",
+      "periodicity": "month",
+      "date": "2025-09-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 82.9553,
+      "rowId": 405,
+      "dt": "Сентябрь 2025",
+      "periodicity": "month",
+      "date": "2025-10-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 97.4526,
+      "rowId": 405,
+      "dt": "Сентябрь 2025",
+      "periodicity": "month",
+      "date": "2025-10-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 11.6056,
+      "rowId": 405,
+      "dt": "Сентябрь 2025",
+      "periodicity": "month",
+      "date": "2025-10-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 11.3207,
+      "rowId": 406,
+      "dt": "Октябрь 2025",
+      "periodicity": "month",
+      "date": "2025-11-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 94.3613,
+      "rowId": 406,
+      "dt": "Октябрь 2025",
+      "periodicity": "month",
+      "date": "2025-11-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 81.0031,
+      "rowId": 406,
+      "dt": "Октябрь 2025",
+      "periodicity": "month",
+      "date": "2025-11-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 80.3429,
+      "rowId": 407,
+      "dt": "Ноябрь 2025",
+      "periodicity": "month",
+      "date": "2025-12-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 92.9784,
+      "rowId": 407,
+      "dt": "Ноябрь 2025",
+      "periodicity": "month",
+      "date": "2025-12-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 11.2537,
+      "rowId": 407,
+      "dt": "Ноябрь 2025",
+      "periodicity": "month",
+      "date": "2025-12-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 103,
+      "element_id": 103,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 11.0966,
+      "rowId": 408,
+      "dt": "Декабрь 2025",
+      "periodicity": "month",
+      "date": "2026-01-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 102,
+      "element_id": 102,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 91.851,
+      "rowId": 408,
+      "dt": "Декабрь 2025",
+      "periodicity": "month",
+      "date": "2026-01-01T00:00:00",
+      "digits": 4
+    },
+    {
+      "colId": 101,
+      "element_id": 101,
+      "measure_id": null,
+      "unit_id": 10,
+      "obs_val": 78.4248,
+      "rowId": 408,
+      "dt": "Декабрь 2025",
+      "periodicity": "month",
+      "date": "2026-01-01T00:00:00",
+      "digits": 4
+    }
+  ],
+  "headerData": [
+    {
+      "id": 101,
+      "elname": "Доллара США к рублю"
+    },
+    {
+      "id": 102,
+      "elname": "Евро к рублю"
+    },
+    {
+      "id": 103,
+      "elname": "Юаня к рублю"
+    }
+  ],
+  "units": [
+    {
+      "id": 1,
+      "val": "% годовых"
+    },
+    {
+      "id": 2,
+      "val": "%"
+    },
+    {
+      "id": 3,
+      "val": "млрд руб."
+    },
+    {
+      "id": 4,
+      "val": "млн долларов США"
+    },
+    {
+      "id": 5,
+      "val": "месяцев"
+    },
+    {
+      "id": 6,
+      "val": "млн руб."
+    },
+    {
+      "id": 7,
+      "val": "единиц"
+    },
+    {
+      "id": 8,
+      "val": "число опрошенных"
+    },
+    {
+      "id": 9,
+      "val": "пунктов"
+    },
+    {
+      "id": 10,
+      "val": "руб."
+    }
+  ],
+  "DTRange": [
+    {
+      "FromY": 2005,
+      "ToY": 2025
+    }
+  ],
+  "SType": [
+    {
+      "sType": 2,
+      "dsName": "Средний номинальный курс за период",
+      "PublName": "Номинальные курсы иностранных валют к рублю (рублей за единицу иностранной валюты) (ежемесячные данные)"
+    }
+  ]
+}

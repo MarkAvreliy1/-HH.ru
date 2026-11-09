@@ -1,0 +1,42 @@
+[
+  {
+    "id": 129,
+    "parent_id": -1,
+    "name": "Индекс номинального курса",
+    "full_name": "Индекс номинального курса",
+    "type": 1,
+    "reporting": "period",
+    "link": "/statistics/macro_itm/external_sector/er/",
+    "updated_time": "2026-01-21T00:00:00"
+  },
+  {
+    "id": 130,
+    "parent_id": -1,
+    "name": "Индекс номинального эффективного курса рубля к иностранным валютам",
+    "full_name": "Индекс номинального эффективного курса рубля к иностранным валютам",
+    "type": 1,
+    "reporting": "period",
+    "link": "/statistics/macro_itm/external_sector/er/",
+    "updated_time": "2026-01-21T00:00:00"
+  },
+  {
+    "id": 131,
+    "parent_id": -1,
+    "name": "Индекс реального курса",
+    "full_name": "Индекс реального курса",
+    "type": 1,
+    "reporting": "period",
+    "link": "/statistics/macro_itm/external_sector/er/",
+    "updated_time": "2026-01-21T00:00:00"
+  },
+  {
+    "id": 132,
+    "parent_id": -1,
+    "name": "Индекс реального эффективного курса рубля к иностранным валютам",
+    "full_name": "Индекс реального эффективного курса рубля к иностранным валютам",
+    "type": 1,
+    "reporting": "period",
+    "link": "/statistics/macro_itm/external_sector/er/",
+    "updated_time": "2026-01-21T00:00:00"
+  }
+]

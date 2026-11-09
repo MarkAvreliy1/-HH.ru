@@ -1,0 +1,32 @@
+[
+  {
+    "id": 127,
+    "parent_id": -1,
+    "name": "Номинальный курс",
+    "full_name": "Номинальный курс на конец периода",
+    "type": 2,
+    "reporting": "period",
+    "link": "/statistics/macro_itm/external_sector/er/",
+    "updated_time": "2026-01-21T00:00:00"
+  },
+  {
+    "id": 128,
+    "parent_id": -1,
+    "name": "Средний номинальный курс за период",
+    "full_name": "Средний номинальный курс за период",
+    "type": 2,
+    "reporting": "period",
+    "link": "/statistics/macro_itm/external_sector/er/",
+    "updated_time": "2026-01-21T00:00:00"
+  },
+  {
+    "id": 139,
+    "parent_id": -1,
+    "name": "Средний номинальный курс за период с начала года",
+    "full_name": "Средний номинальный курс за период с начала года",
+    "type": 2,
+    "reporting": "period",
+    "link": "/statistics/macro_itm/external_sector/er/",
+    "updated_time": "2026-01-21T00:00:00"
+  }
+]
